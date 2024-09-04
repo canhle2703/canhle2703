@@ -1,17 +1,18 @@
 # Hi there! 👋
 
-I'm Canh Le, a passionate learner on the journey to becoming a skilled Data Analyst. Welcome to my GitHub profile!
+I'm Canh Le, a dedicated Database Administrator with a keen interest in Data Engineering and a strong passion for cloud technologies and data management. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌐 Aspiring Data Analyst
-- 💡 Passionate about uncovering insights from data
-- 📊 Skilled in data analysis and visualization
+- ☁️ Aspiring to transition into a Data Engineer with a focus on Azure cloud solutions
+- 📊 Experienced in data analysis, database management, and ERP systems
+- 💡 Passionate about optimizing data processes and uncovering insights
+- 💻 Skilled in Python and data visualization tools
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/canhle2703/
-- GitHub: https://github.com/canhle2703/
-- Porfolio: https://canhle2703.github.io/projects/
+- LinkedIn: linkedin.com/in/canhle2703/
+- GitHub: github.com/canhle2703/
+- Porfolio: canhle2703.github.io/projects/
   
-Feel free to explore my repositories for projects that reflect my commitment to data analysis. If you have any questions, collaborations, or just want to connect, don't hesitate to reach out. Let's learn and grow together! 🚀
+Feel free to explore my repositories to see my journey in data management and engineering. If you have any questions, opportunities, or just want to connect, don't hesitate to reach out. Let's build the future of data together! 🚀
